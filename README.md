@@ -14,4 +14,4 @@ After having obtained the data, I also had to clean the records because there we
 
 ## Building a model 
 
-The following step was to build a model able to correctly predict the house prices. I have implements *Linear regression*, through the sklearn Library in Python. The code is avalaible in the INSERIRE QUI file. 
+The following step was to build a model able to correctly predict the house prices. I have implemented *Linear regression*, through the sklearn Library in Python. The code is avalaible in the INSERIRE QUI file. 
