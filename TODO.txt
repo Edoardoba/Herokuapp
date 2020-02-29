@@ -1,0 +1,5 @@
+Prossimi step:
+
+-Creare db più grande 
+-Sviluppare HTML decente
+-Creare backend su HEROKU
