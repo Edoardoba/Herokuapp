@@ -15,3 +15,7 @@ After having obtained the data, I also had to clean the records because there we
 ## Building a model 
 
 The following step was to build a model able to correctly predict the house prices. I have implemented *Linear regression*, through the sklearn Library in Python. The code is avalaible in the **heroku_regression.ipynb** file. 
+
+## Creating Backend
+
+Now that I have the model saved in a external "pickle" I cna call it back whenever I need a new prediction. So the idea is to let the user insert the parameters, send them to the backend("Heroku"), apply the regression and send the results back to the frontend. FOr this reason now I'll focus on working on Heroku. 
