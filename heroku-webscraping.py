@@ -3,7 +3,7 @@
 
 # # Web Scraping
 # 
-# SInce we do not have a proper Db for the apartments in the Roman Area, I am going to web-scrape directly from one of the most famous italian real estate agency website: [Immobiliare.it](https://www.immobiliare.it/). I am going to retrieve some insight of every apartment (around 9000) in order to make an accurate prediction.
+# Since we do not have a proper Db for the apartments in the Roman Area, I am going to web-scrape directly from one of the most famous italian real estate agency website: [Immobiliare.it](https://www.immobiliare.it/). I am going to retrieve some insight of every apartment (around 9000) in order to make an accurate prediction.
 
 # In[4]:
 
