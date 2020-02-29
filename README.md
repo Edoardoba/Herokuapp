@@ -1,6 +1,6 @@
 # Herokuapp
 
-The main idea of the project is to develop an Android application able to accurately predict house prices for the Roman rural area. This will take some parameters as inputs (such as total Area, FLoor, Neighborhood...) and elaborate an estimate of the house price. This will be performed in differents steps. 
+The main idea of the project is to develop an Android application able to accurately predict house prices for the Roman rural area. This will take some parameters as inputs (such as total Area, Floor, Neighborhood...) and elaborate an estimate of the house price. This will be performed in differents steps. 
 
 ## Web Scraping
 
