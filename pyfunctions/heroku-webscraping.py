@@ -35,7 +35,7 @@ def web_scrap():
     url="https://www.immobiliare.it/vendita-case/roma/?pag="
     counturl=1
     df=[]
-    ndocs=int(12000/25)
+    ndocs=int(19000/25)
     titles=[]
     descriptions=[]
     prices=[]
