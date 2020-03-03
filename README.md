@@ -18,4 +18,8 @@ The following step was to build a model able to correctly predict the house pric
 
 ## Creating Backend
 
-Now that I have the model saved in a external "pickle" I cna call it back whenever I need a new prediction. So the idea is to let the user insert the parameters, send them to the backend("Heroku"), apply the regression and send the results back to the frontend. FOr this reason now I'll focus on working on Heroku. 
+Now that I have the model saved in a external "pickle" I can call it back whenever I need a new prediction. So the idea is to let the user insert the parameters, send them to the backend("Heroku"), apply the regression and send the results back to the frontend. For this reason now I'll focus on working on Heroku. 
+
+## Created Heroku server with Postegresql
+
+Successfully created the Heroku server with a Postgresql as an addon. Everytime the user clicks submit, the value of the prediction will be sent to the db. This will be lately used to retrieve the value from an Android app. There is also a side feature to share the value via mail.
