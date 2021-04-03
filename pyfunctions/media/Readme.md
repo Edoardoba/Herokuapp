@@ -1,5 +1,5 @@
 icon size:
 
-robot 90x89
+robot 200x198
 
 Categories 32x32
